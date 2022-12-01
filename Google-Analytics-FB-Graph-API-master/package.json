@@ -1,0 +1,17 @@
+{
+  "name": "gadatanode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "fb": "^2.0.0",
+    "googleapis": "^39.2.0",
+    "parse": "^2.4.0"
+  }
+}
